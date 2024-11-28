@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">modul7</string>
+    <string name="app_name">localdatabase</string>
+    <string name="description">description</string>
+    <string name="submit">submit</string>
+    <string name="title">title</string>
+    <string name="add_homework"> add homework </string>
 </resources>
