@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.sigmaboy.modul7"
-    compileSdk = 34
+    compileSdk = 35
 
     buildFeatures {
         viewBinding = true
@@ -15,7 +15,7 @@ android {
     defaultConfig {
         applicationId = "com.sigmaboy.modul7"
         minSdk = 29
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
